@@ -18,4 +18,11 @@ $tai = [
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+👇 If you want to, just hit this in your console, shell or terminal to connect with me
+```bash
+npx tainqa
+```
+
+<img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ViZG5mc3luZzJ0N2E1NGk3aGk2eDg5dmtrd3owM3FucDY1bWdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EDH1ejPND18xTfbszE/giphy.gif" />
+
 ---
