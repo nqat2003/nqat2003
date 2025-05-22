@@ -5,7 +5,7 @@
 [![website](https://img.shields.io/website?url=https%3A%2F%2Ftainqa.me%2F&up_message=online&down_message=offline&style=flat&logo=zcool&logoColor=white&label=tainqa)](https://tainqa.me/)
 [![Linkedin: Tài Anh](https://img.shields.io/badge/-T%C3%A0i%20Nguy%E1%BB%85n-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tai-nqa/)](https://www.linkedin.com/in/tai-nqa/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc5dmxvYWptYzZ4dGx0a3ZqbmthMGZuYjRhbGt0OXZzNXMxdDRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTk9ZA8BthehihP9Xq/giphy.gif" width="50"> Something about me...  
 
 ```php
 $tai = [
